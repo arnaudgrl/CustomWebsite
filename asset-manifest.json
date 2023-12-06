@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5808c504.css",
-    "main.js": "/static/js/main.bef58c88.js",
+    "main.js": "/static/js/main.ea19d81c.js",
     "static/css/64.50fefce3.chunk.css": "/static/css/64.50fefce3.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
     "static/css/769.85fe3514.chunk.css": "/static/css/769.85fe3514.chunk.css",
@@ -10,7 +10,6 @@
     "static/media/google-cloud-logo-0.png": "/static/media/google-cloud-logo-0.e2d14b14e1555a16dd55.png",
     "static/media/Ministère_des_Armées.png": "/static/media/Ministère_des_Armées.4d47a7aea24ae969f9bd.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/Airbus-Logo.png": "/static/media/Airbus-Logo.8e426a75558330a8de47.png",
@@ -20,7 +19,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.5808c504.css.map": "/static/css/main.5808c504.css.map",
-    "main.bef58c88.js.map": "/static/js/main.bef58c88.js.map",
+    "main.ea19d81c.js.map": "/static/js/main.ea19d81c.js.map",
     "64.50fefce3.chunk.css.map": "/static/css/64.50fefce3.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
     "769.85fe3514.chunk.css.map": "/static/css/769.85fe3514.chunk.css.map",
@@ -28,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.5808c504.css",
-    "static/js/main.bef58c88.js"
+    "static/js/main.ea19d81c.js"
   ]
 }
